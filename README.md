@@ -17,19 +17,19 @@ The project works on python 3 jupyter notebook and you will have to install the 
 
 I was interestested in using Stack Overflow 2017 data to answer some questions that i found interesting, these were:
 
-Question 1. Which are the most popular technologies to work on ?
-Question 2. Which technologies pay you well ?
-Question 3. Working on which technologies gives the most job satisfaction ?
-Question 4. Which job profile is most popular ?
-Question 5. Which job profiles give you a higher salary ?
-Question 6. Working in which job profiles gives the most job satisfaction ?
-Question 7. What are the important factors that people look when assessing potential jobs to apply to ?
-Question 8. What are the important factors according to people when recruiting software developers ?
+Question 1. Which are the most popular technologies to work on ?  
+Question 2. Which technologies pay you well ?  
+Question 3. Working on which technologies gives the most job satisfaction ?  
+Question 4. Which job profile is most popular ?  
+Question 5. Which job profiles give you a higher salary ?  
+Question 6. Working in which job profiles gives the most job satisfaction ?  
+Question 7. What are the important factors that people look when assessing potential jobs to apply to ?  
+Question 8. What are the important factors according to people when recruiting software developers ?  
 
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available used to answer the above questions. The notebook is self explainatory in following the full process to answer the questions.  Markdown cells are used to assist in walking through the thought process for individual steps.  
+There is one notebook available used to answer the above questions. The notebook is self explanatory in following the full process to answer the questions.  Markdown cells are used to assist in walking through the thought process for individual steps.  
 
 There is also the stackoverflow 2017 data in this repo taken from Udacity which inturn took from Kaggle. There are two files corresponding to it, one having the data and other having the schema of the data.
 
