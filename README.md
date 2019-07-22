@@ -31,7 +31,7 @@ Question 8. What are the important factors according to people when recruiting s
 
 There is one notebook available used to answer the above questions. The notebook is self explanatory in following the full process to answer the questions.  Markdown cells are used to assist in walking through the thought process for individual steps.  
 
-There is also the stackoverflow 2017 data in this repo taken from Udacity which inturn took from Kaggle. There are two files corresponding to it, one having the data and other having the schema of the data.
+There is also the stackoverflow 2017 data in a zip file in this repo taken from Udacity which inturn took from Kaggle. There are two files corresponding to it, one having the data and other having the schema of the data.
 
 ## Results<a name="results"></a>
 
