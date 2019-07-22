@@ -35,7 +35,7 @@ There is also the stackoverflow 2017 data in a zip file in this repo taken from 
 
 ## Results<a name="results"></a>
 
-The results of my analysis can be found on my blog post [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The results of my analysis can be found on my blog post [here](https://medium.com/@bhathejagautam/insights-about-software-development-field-use-them-for-your-benefit-9ad0a70ed1bf).
 Also, I have presented my results in the markdown cells of the above notebook, if someone likes to see the code with the results. 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
